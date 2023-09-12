@@ -204,8 +204,8 @@ header {
  }
 
 
-@media(max-width:768px){
-    .footer-navigation {
-        display: block;
+@media screem and (max-width:768px){
+  .header-icons, home-text {
+        whidth:100%
     }
  
